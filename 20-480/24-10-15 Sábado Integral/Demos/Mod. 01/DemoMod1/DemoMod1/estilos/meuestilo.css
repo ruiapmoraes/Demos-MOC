@@ -1,0 +1,21 @@
+﻿.minha-fonte {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.meus-paragrafos {
+    font-family: Algerian;
+    font-size: 18px;
+}
+
+#titulo-pag2 {
+    color: red;
+    font-size: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+    ul > li {
+        display: inline;
+    }
